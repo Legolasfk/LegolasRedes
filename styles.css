@@ -103,13 +103,13 @@ main, nav, footer, .container {
   font-weight: 500;
 }
 
-.btn-twitch, .btn-youtube, .btn-tiktok, .btn-instagram, .btn-discord {
+.btn-twitch, .btn-kick .btn-youtube, .btn-tiktok, .btn-instagram, .btn-discord {
   background: transparent;
   color: #fff;
   border: 2px solid #fff;
   box-shadow: none;
 }
-.btn-twitch span, .btn-youtube span, .btn-tiktok span, .btn-instagram span, .btn-discord span, .btn-discord i {
+.btn-twitch span, .btn-kick span, .btn-youtube span, .btn-tiktok span, .btn-instagram span, .btn-discord span, .btn-discord i {
   color: #fff;
 } 
 
